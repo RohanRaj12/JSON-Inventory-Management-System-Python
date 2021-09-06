@@ -21,9 +21,9 @@ It is developed using Python3.The main purpose of the project is to manage inven
 ## Details
 | File     | Function    | Details |
 | ---      | ---         | ---     |
-|IMS.ipynb | Add | For Addition of new products to the Inventory|
-|           |Delete | For Deletion of the existing product in the inventory|
-           
+|IMS.ipynb | Add | For ***addition*** of new products to the Inventory|
+|           |Delete | For ***deletion*** of the existing product from the Inventory|
+|          |View | To ***view*** all the items in the Inventory |
   
 
 
