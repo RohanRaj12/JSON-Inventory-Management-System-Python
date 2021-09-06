@@ -1,0 +1,1 @@
+{"1001": {"Name": "cadbury", "type": "chocolate", "price": 100, "quantity": 5, "discount": 4, "totalbill": 480.0}, "1002": {"Name": "Dove", "type": "soap", "price": 30, "quantity": 10, "discount": 8, "totalbill": 276.0}, "0": {"Name": "Sunsilk", "type": "shampoo", "price": 90, "quantity": 5, "discount": 4, "totalbill": 432.0}}
